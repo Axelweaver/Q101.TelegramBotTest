@@ -10,9 +10,9 @@ namespace Q101.TelegramBotTest.WebApi.Tests
         [Test]
         public void Test1()
         {
-            //Assert.Pass();
+            Assert.Pass();
             // try it out in github actions
-            Assert.Fail();
+            //Assert.Fail();
         }
     }
 }
